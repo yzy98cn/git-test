@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World3" );
         System.out.println( "Hello World3" );
         System.out.println( "Hello World3" );
+        System.out.println( "hot-fix 修改了" );
     }
 }
