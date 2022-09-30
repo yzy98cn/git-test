@@ -14,5 +14,6 @@ public class App
         System.out.println( "hot-fix 修改了" );
         System.out.println( "hot-fix 修改了1" );
         System.out.println( "又修改了" );
+        System.out.println( "葵花宝典送你练不练" ); 
     }
 }
